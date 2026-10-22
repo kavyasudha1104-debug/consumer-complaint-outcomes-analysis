@@ -1,0 +1,22 @@
+product_raw,rows,min,max,in_scope_product,product_group
+Credit reporting or other personal consumer reports,12868319,2023-08-24 00:00:00,2026-10-17 00:00:00,False,
+"Credit reporting, credit repair services, or other personal consumer reports",2163769,2017-04-24 00:00:00,2023-08-25 00:00:00,False,
+Debt collection,1216686,2013-07-10 00:00:00,2026-10-16 00:00:00,False,
+Mortgage,463764,2011-12-01 00:00:00,2026-10-16 00:00:00,True,Mortgage
+Checking or savings account,404280,2017-04-21 00:00:00,2026-10-16 00:00:00,True,Checking & savings
+Credit card,352582,2011-12-01 00:00:00,2026-10-16 00:00:00,True,Credit card
+Credit card or prepaid card,206356,2017-04-24 00:00:00,2023-08-25 00:00:00,True,Credit card
+"Money transfer, virtual currency, or money service",194880,2017-04-24 00:00:00,2026-10-16 00:00:00,True,Money transfer
+Credit reporting,140426,2012-10-22 00:00:00,2017-04-22 00:00:00,False,
+Student loan,135087,2012-03-01 00:00:00,2026-10-15 00:00:00,True,Student loan
+Vehicle loan or lease,105398,2017-04-24 00:00:00,2026-10-16 00:00:00,True,Vehicle loan
+Bank account or service,86198,2012-03-01 00:00:00,2017-04-22 00:00:00,True,Checking & savings
+"Payday loan, title loan, personal loan, or advance loan",39848,2023-08-25 00:00:00,2026-10-16 00:00:00,True,Payday & personal loan
+Consumer Loan,31559,2012-03-01 00:00:00,2017-04-21 00:00:00,True,Payday & personal loan
+"Payday loan, title loan, or personal loan",30614,2017-04-24 00:00:00,2023-08-24 00:00:00,True,Payday & personal loan
+Prepaid card,23764,2014-07-20 00:00:00,2026-10-16 00:00:00,False,
+Debt or credit management,10635,2023-08-25 00:00:00,2026-10-15 00:00:00,False,
+Payday loan,5528,2013-11-06 00:00:00,2017-04-21 00:00:00,True,Payday & personal loan
+Money transfers,5354,2013-04-04 00:00:00,2017-04-21 00:00:00,True,Money transfer
+Other financial service,1056,2014-07-19 00:00:00,2017-04-21 00:00:00,False,
+Virtual currency,18,2014-08-15 00:00:00,2017-04-03 00:00:00,False,

@@ -1,0 +1,23 @@
+{
+  "n_records_primary_window": 1493277,
+  "date_min": "2017-04-24",
+  "date_max": "2026-06-30",
+  "outcome_counts_overall": {
+    "explanation_only": 1213177,
+    "monetary_relief": 148966,
+    "non_monetary_relief": 120581,
+    "untimely_legacy": 10306,
+    "in_progress": 246,
+    "missing": 1
+  },
+  "n_known_final": 1482724,
+  "overall_any_relief_rate": 0.18179175625402974,
+  "n_eligible_issues": 69,
+  "verdict_counts": {
+    "no_aggregate_difference": 49,
+    "disappears": 9,
+    "persists": 8,
+    "weakens": 3
+  },
+  "n_company_product_units": 565
+}

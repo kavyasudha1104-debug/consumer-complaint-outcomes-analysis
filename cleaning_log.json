@@ -1,0 +1,45 @@
+{
+  "raw_file": "/home/claude/support-escalation-evidence/data/raw/complaints.csv",
+  "raw_rows": 18486121,
+  "invalid_dates": 0,
+  "rows_before_window": 767873,
+  "rows_after_window_end_file": 0,
+  "rows_out_of_product_scope": 16133988,
+  "rows_in_product_and_date_scope": 1584260,
+  "file_max_date": "2026-10-16",
+  "file_min_date_in_scope": "2017-04-24",
+  "duplicate_complaint_ids": 0,
+  "fully_duplicated_rows": 0,
+  "rows_after_dedup": 1584260,
+  "missing_by_field_after_dedup": {
+    "issue": 5,
+    "company": 0,
+    "response_raw": 1,
+    "timely": 0,
+    "sub_product": 136
+  },
+  "rows_after_dropping_missing_issue_or_company": 1584255,
+  "unmapped_response_values": [],
+  "outcome_counts_all_scope": {
+    "explanation_only": 1276589,
+    "monetary_relief": 156916,
+    "non_monetary_relief": 125580,
+    "in_progress": 13081,
+    "untimely_legacy": 12088,
+    "missing": 1
+  },
+  "distinct_company_raw": 4964,
+  "distinct_company_normalised": 4948,
+  "normalised_companies_merging_multiple_raw_names": 16,
+  "outcome_mapping": {
+    "Closed with monetary relief": "monetary_relief",
+    "Closed with non-monetary relief": "non_monetary_relief",
+    "Closed with relief": "relief_unspecified",
+    "Closed with explanation": "explanation_only",
+    "Closed without relief": "no_relief_legacy",
+    "Closed": "closed_unspecified",
+    "Untimely response": "untimely_legacy",
+    "In progress": "in_progress"
+  },
+  "missing_outcome_label": "missing"
+}
