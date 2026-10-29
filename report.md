@@ -1,4 +1,4 @@
-# Support Escalation Evidence - Findings Report
+# Consumer Finance Complaint Outcomes: Findings Report
 
 *All numbers below are produced by the code in `src/` from the CFPB Consumer Complaint Database file listed in section 3; see the README for how to reproduce them.*
 
